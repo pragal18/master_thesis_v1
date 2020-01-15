@@ -24,16 +24,14 @@ SPACY>=2.0
 rdflib>=4.0
 numpy>=1.16.3 
 Usage
-  usage: ./run.sh [-h] [-p PROJECT] [-i ITERATIONS] [-d DAMPING] [-s START]
-                     [-b] [-l]
-                     wikilang
+  usage: ./run.sh [-n NUMBER] [-l LANGUAGE] [-t TASK] [-e METHOD/LIBRARY] [-s SEARCH]
 
   Compute PageRank on Wikipedia.
 
   positional arguments:
-    wikilang              Wikipedia language edition, e.g. "en". "ALL" for
-                          computing PageRank over all languages available in a
-                          project.
+    wikilang              
+    
+    
 
   optional arguments:
     -h, --help            show this help message and exit
@@ -70,77 +68,3 @@ Compute PageRank on any other graph
 Download
 Output of ./danker.sh ALL on bi-weekly Wikipedia dumps.
 
-2019-10-29
-https://danker.s3.amazonaws.com/2019-10-29.allwiki.links.stats.txt
-https://danker.s3.amazonaws.com/2019-10-29.allwiki.links.rank.bz2
-2019-10-09
-https://danker.s3.amazonaws.com/2019-10-09.allwiki.links.stats.txt
-https://danker.s3.amazonaws.com/2019-10-09.allwiki.links.rank.bz2
-2019-09-28
-https://danker.s3.amazonaws.com/2019-09-28.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-09-28.all.links.rank.bz2
-2019-09-12
-https://danker.s3.amazonaws.com/2019-09-12.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-09-12.all.links.rank.bz2
-2019-08-21
-https://danker.s3.amazonaws.com/2019-08-21.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-08-21.all.links.rank.bz2
-2019-08-15
-https://danker.s3.amazonaws.com/2019-08-15.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-08-15.all.links.rank.bz2
-2019-07-28
-https://danker.s3.amazonaws.com/2019-07-28.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-07-28.all.links.rank.bz2
-2019-07-08
-https://danker.s3.amazonaws.com/2019-07-08.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-07-08.all.links.rank.bz2
-2019-06-28
-https://danker.s3.amazonaws.com/2019-06-28.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-06-28.all.links.rank.bz2
-2019-06-07
-https://danker.s3.amazonaws.com/2019-06-07.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-06-07.all.links.rank.bz2
-2019-05-28
-https://danker.s3.amazonaws.com/2019-05-28.all.links.stats.txt
-https://danker.s3.amazonaws.com/2019-05-28.all.links.rank.bz2
-Previous work
-Before danker, I performed a number of experiments with DBpedia "page links" datasets most of which are documented at https://web.archive.org/web/20180222182923/https://people.aifb.kit.edu/ath/.
-
-Test
-The unit tests assure correctness and compare the results of danker to the PageRank implementation of NetworkX. The tests need the numpy and networkx libraries installed.
-
-Execute the unit tests as follows:
-
-python3 -m unittest test/danker_test.py
-
-In the directory test is a small graph with which you can try out the PageRank core of danker.
-
-$ ./danker/danker.py ./test/graphs/test.links 0.85 40 1
-1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.34.35.36.37.38.39.40.
-Computation of PageRank on './test/graphs/test.links' with danker took 0.00 seconds.
-C	3.1828140590777672
-B	3.5642607869667629
-A	0.30410528185693986
-D	0.3626006631927996
-F	0.3626006631927996
-E	0.75035528185693967
-G	0.15000000000000002
-H	0.15000000000000002
-I	0.15000000000000002
-K	0.15000000000000002
-L	0.15000000000000002
-$ ./danker/danker.py ./test/graphs/test.links ./test/graphs/test.links.right 0.85 40 1
-1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.34.35.36.37.38.39.40.
-Computation of PageRank on './test/graphs/test.links' with danker took 0.01 seconds.
-A	0.30410528185693986
-B	3.5642607869667629
-C	3.1828140590777672
-D	0.3626006631927996
-E	0.75035528185693967
-F	0.3626006631927996
-G	0.15000000000000002
-L	0.15000000000000002
-K	0.15000000000000002
-I	0.15000000000000002
-H	0.15000000000000002
-If you normalize the output values (divide each by 11) the values compare well to https://commons.wikimedia.org/wiki/File:PageRank-Beispiel.png or, if you compute percentages (division by the sum), they are similar to https://commons.wikimedia.org/wiki/File:PageRanks-Example.svg (same graph).
