@@ -1,0 +1,2397 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_0_2> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "2" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1003_1005> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "1003" ;
+    nif:endIndex "1005" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1006_1013> a nif:Word ;
+    nif:anchorOf "skaldic" ;
+    nif:beginIndex "1006" ;
+    nif:endIndex "1013" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1014_1020> a nif:Word ;
+    nif:anchorOf "poetry" ;
+    nif:beginIndex "1014" ;
+    nif:endIndex "1020" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_101_111> a nif:Word ;
+    nif:anchorOf "translates" ;
+    nif:beginIndex "101" ;
+    nif:endIndex "111" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_112_114> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "112" ;
+    nif:endIndex "114" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1136_1138> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "1136" ;
+    nif:endIndex "1138" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1139_1148> a nif:Word ;
+    nif:anchorOf "Fáfnismál" ;
+    nif:beginIndex "1139" ;
+    nif:endIndex "1148" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1150_1156> a nif:Word ;
+    nif:anchorOf "during" ;
+    nif:beginIndex "1150" ;
+    nif:endIndex "1156" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1157_1158> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1157" ;
+    nif:endIndex "1158" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1159_1169> a nif:Word ;
+    nif:anchorOf "discussion" ;
+    nif:beginIndex "1159" ;
+    nif:endIndex "1169" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1170_1177> a nif:Word ;
+    nif:anchorOf "between" ;
+    nif:beginIndex "1170" ;
+    nif:endIndex "1177" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1178_1184> a nif:Word ;
+    nif:anchorOf "Sigurd" ;
+    nif:beginIndex "1178" ;
+    nif:endIndex "1184" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1185_1188> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1185" ;
+    nif:endIndex "1188" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1189_1195> a nif:Word ;
+    nif:anchorOf "Fafnir" ;
+    nif:beginIndex "1189" ;
+    nif:endIndex "1195" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1196_1206> a nif:Word ;
+    nif:anchorOf "concerning" ;
+    nif:beginIndex "1196" ;
+    nif:endIndex "1206" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1207_1210> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1207" ;
+    nif:endIndex "1210" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1211_1216> a nif:Word ;
+    nif:anchorOf "minor" ;
+    nif:beginIndex "1211" ;
+    nif:endIndex "1216" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1217_1222> a nif:Word ;
+    nif:anchorOf "Norns" ;
+    nif:beginIndex "1217" ;
+    nif:endIndex "1222" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1224_1229> a nif:Word ;
+    nif:anchorOf "apart" ;
+    nif:beginIndex "1224" ;
+    nif:endIndex "1229" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1230_1234> a nif:Word ;
+    nif:anchorOf "from" ;
+    nif:beginIndex "1230" ;
+    nif:endIndex "1234" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1235_1238> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1235" ;
+    nif:endIndex "1238" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1239_1244> a nif:Word ;
+    nif:anchorOf "three" ;
+    nif:beginIndex "1239" ;
+    nif:endIndex "1244" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1245_1250> a nif:Word ;
+    nif:anchorOf "great" ;
+    nif:beginIndex "1245" ;
+    nif:endIndex "1250" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1251_1256> a nif:Word ;
+    nif:anchorOf "Norns" ;
+    nif:beginIndex "1251" ;
+    nif:endIndex "1256" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1259_1264> a nif:Word ;
+    nif:anchorOf "those" ;
+    nif:beginIndex "1259" ;
+    nif:endIndex "1264" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1265_1268> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "1265" ;
+    nif:endIndex "1268" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Pronoun>,
+        <http://purl.org/olia/olia.owl#wh-Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1269_1275> a nif:Word ;
+    nif:anchorOf "govern" ;
+    nif:beginIndex "1269" ;
+    nif:endIndex "1275" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1276_1279> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1276" ;
+    nif:endIndex "1279" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1280_1285> a nif:Word ;
+    nif:anchorOf "lives" ;
+    nif:beginIndex "1280" ;
+    nif:endIndex "1285" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1286_1289> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1286" ;
+    nif:endIndex "1289" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1290_1299> a nif:Word ;
+    nif:anchorOf "destinies" ;
+    nif:beginIndex "1290" ;
+    nif:endIndex "1299" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1300_1302> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1300" ;
+    nif:endIndex "1302" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1303_1310> a nif:Word ;
+    nif:anchorOf "dwarves" ;
+    nif:beginIndex "1303" ;
+    nif:endIndex "1310" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1311_1314> a nif:Word ;
+    nif:anchorOf "are" ;
+    nif:beginIndex "1311" ;
+    nif:endIndex "1314" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1315_1319> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "1315" ;
+    nif:endIndex "1319" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1320_1325> a nif:Word ;
+    nif:anchorOf "known" ;
+    nif:beginIndex "1320" ;
+    nif:endIndex "1325" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1326_1328> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "1326" ;
+    nif:endIndex "1328" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1352_1357> a nif:Word ;
+    nif:anchorOf "Sagas" ;
+    nif:beginIndex "1352" ;
+    nif:endIndex "1357" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1358_1360> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "1358" ;
+    nif:endIndex "1360" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1361_1369> a nif:Word ;
+    nif:anchorOf "Hervarar" ;
+    nif:beginIndex "1361" ;
+    nif:endIndex "1369" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1370_1374> a nif:Word ;
+    nif:anchorOf "saga" ;
+    nif:beginIndex "1370" ;
+    nif:endIndex "1374" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1376_1382> a nif:Word ;
+    nif:anchorOf "Dvalin" ;
+    nif:beginIndex "1376" ;
+    nif:endIndex "1382" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1383_1385> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "1383" ;
+    nif:endIndex "1385" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1386_1389> a nif:Word ;
+    nif:anchorOf "one" ;
+    nif:beginIndex "1386" ;
+    nif:endIndex "1389" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1390_1392> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1390" ;
+    nif:endIndex "1392" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1393_1394> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1393" ;
+    nif:endIndex "1394" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1395_1399> a nif:Word ;
+    nif:anchorOf "pair" ;
+    nif:beginIndex "1395" ;
+    nif:endIndex "1399" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1400_1402> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1400" ;
+    nif:endIndex "1402" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1403_1410> a nif:Word ;
+    nif:anchorOf "dwarves" ;
+    nif:beginIndex "1403" ;
+    nif:endIndex "1410" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1412_1421> a nif:Word ;
+    nif:anchorOf "including" ;
+    nif:beginIndex "1412" ;
+    nif:endIndex "1421" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1422_1427> a nif:Word ;
+    nif:anchorOf "Durin" ;
+    nif:beginIndex "1422" ;
+    nif:endIndex "1427" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1429_1432> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "1429" ;
+    nif:endIndex "1432" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Pronoun>,
+        <http://purl.org/olia/olia.owl#wh-Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1433_1439> a nif:Word ;
+    nif:anchorOf "forged" ;
+    nif:beginIndex "1433" ;
+    nif:endIndex "1439" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1440_1443> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1440" ;
+    nif:endIndex "1443" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1444_1449> a nif:Word ;
+    nif:anchorOf "magic" ;
+    nif:beginIndex "1444" ;
+    nif:endIndex "1449" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1450_1455> a nif:Word ;
+    nif:anchorOf "sword" ;
+    nif:beginIndex "1450" ;
+    nif:endIndex "1455" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1456_1463> a nif:Word ;
+    nif:anchorOf "Tyrfing" ;
+    nif:beginIndex "1456" ;
+    nif:endIndex "1463" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1466_1471> a nif:Word ;
+    nif:anchorOf "Sörla" ;
+    nif:beginIndex "1466" ;
+    nif:endIndex "1471" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1472_1477> a nif:Word ;
+    nif:anchorOf "þáttr" ;
+    nif:beginIndex "1472" ;
+    nif:endIndex "1477" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1478_1480> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "1478" ;
+    nif:endIndex "1480" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1481_1484> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1481" ;
+    nif:endIndex "1484" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1485_1490> a nif:Word ;
+    nif:anchorOf "Sörla" ;
+    nif:beginIndex "1485" ;
+    nif:endIndex "1490" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1491_1496> a nif:Word ;
+    nif:anchorOf "þáttr" ;
+    nif:beginIndex "1491" ;
+    nif:endIndex "1496" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1498_1500> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "1498" ;
+    nif:endIndex "1500" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1501_1510> a nif:Word ;
+    nif:anchorOf "Icelandic" ;
+    nif:beginIndex "1501" ;
+    nif:endIndex "1510" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1511_1516> a nif:Word ;
+    nif:anchorOf "short" ;
+    nif:beginIndex "1511" ;
+    nif:endIndex "1516" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1517_1522> a nif:Word ;
+    nif:anchorOf "story" ;
+    nif:beginIndex "1517" ;
+    nif:endIndex "1522" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1523_1530> a nif:Word ;
+    nif:anchorOf "written" ;
+    nif:beginIndex "1523" ;
+    nif:endIndex "1530" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1531_1533> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "1531" ;
+    nif:endIndex "1533" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1534_1537> a nif:Word ;
+    nif:anchorOf "two" ;
+    nif:beginIndex "1534" ;
+    nif:endIndex "1537" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1538_1547> a nif:Word ;
+    nif:anchorOf "Christian" ;
+    nif:beginIndex "1538" ;
+    nif:endIndex "1547" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1548_1555> a nif:Word ;
+    nif:anchorOf "priests" ;
+    nif:beginIndex "1548" ;
+    nif:endIndex "1555" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1556_1558> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1556" ;
+    nif:endIndex "1558" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1559_1562> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1559" ;
+    nif:endIndex "1562" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1563_1567> a nif:Word ;
+    nif:anchorOf "15th" ;
+    nif:beginIndex "1563" ;
+    nif:endIndex "1567" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1568_1575> a nif:Word ;
+    nif:anchorOf "century" ;
+    nif:beginIndex "1568" ;
+    nif:endIndex "1575" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1577_1583> a nif:Word ;
+    nif:anchorOf "Dvalin" ;
+    nif:beginIndex "1577" ;
+    nif:endIndex "1583" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1584_1586> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "1584" ;
+    nif:endIndex "1586" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1587_1590> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1587" ;
+    nif:endIndex "1590" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1591_1595> a nif:Word ;
+    nif:anchorOf "name" ;
+    nif:beginIndex "1591" ;
+    nif:endIndex "1595" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1596_1598> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1596" ;
+    nif:endIndex "1598" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1599_1602> a nif:Word ;
+    nif:anchorOf "one" ;
+    nif:beginIndex "1599" ;
+    nif:endIndex "1602" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1603_1605> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1603" ;
+    nif:endIndex "1605" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1606_1609> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1606" ;
+    nif:endIndex "1609" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1610_1614> a nif:Word ;
+    nif:anchorOf "four" ;
+    nif:beginIndex "1610" ;
+    nif:endIndex "1614" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1615_1622> a nif:Word ;
+    nif:anchorOf "dwarves" ;
+    nif:beginIndex "1615" ;
+    nif:endIndex "1622" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1624_1633> a nif:Word ;
+    nif:anchorOf "including" ;
+    nif:beginIndex "1624" ;
+    nif:endIndex "1633" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1634_1641> a nif:Word ;
+    nif:anchorOf "Alfrigg" ;
+    nif:beginIndex "1634" ;
+    nif:endIndex "1641" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1643_1650> a nif:Word ;
+    nif:anchorOf "Berling" ;
+    nif:beginIndex "1643" ;
+    nif:endIndex "1650" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1651_1654> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1651" ;
+    nif:endIndex "1654" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1655_1659> a nif:Word ;
+    nif:anchorOf "Grer" ;
+    nif:beginIndex "1655" ;
+    nif:endIndex "1659" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1661_1664> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "1661" ;
+    nif:endIndex "1664" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Pronoun>,
+        <http://purl.org/olia/olia.owl#wh-Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1665_1674> a nif:Word ;
+    nif:anchorOf "fashioned" ;
+    nif:beginIndex "1665" ;
+    nif:endIndex "1674" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1675_1676> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1675" ;
+    nif:endIndex "1676" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1677_1685> a nif:Word ;
+    nif:anchorOf "necklace" ;
+    nif:beginIndex "1677" ;
+    nif:endIndex "1685" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1686_1691> a nif:Word ;
+    nif:anchorOf "which" ;
+    nif:beginIndex "1686" ;
+    nif:endIndex "1691" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Wh-Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WDT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1692_1695> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "1692" ;
+    nif:endIndex "1695" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1696_1701> a nif:Word ;
+    nif:anchorOf "later" ;
+    nif:beginIndex "1696" ;
+    nif:endIndex "1701" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1702_1710> a nif:Word ;
+    nif:anchorOf "acquired" ;
+    nif:beginIndex "1702" ;
+    nif:endIndex "1710" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1711_1713> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "1711" ;
+    nif:endIndex "1713" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1714_1715> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1714" ;
+    nif:endIndex "1715" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1716_1721> a nif:Word ;
+    nif:anchorOf "woman" ;
+    nif:beginIndex "1716" ;
+    nif:endIndex "1721" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1722_1728> a nif:Word ;
+    nif:anchorOf "called" ;
+    nif:beginIndex "1722" ;
+    nif:endIndex "1728" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1729_1735> a nif:Word ;
+    nif:anchorOf "Freyja" ;
+    nif:beginIndex "1729" ;
+    nif:endIndex "1735" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1737_1740> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "1737" ;
+    nif:endIndex "1740" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Pronoun>,
+        <http://purl.org/olia/olia.owl#wh-Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1741_1743> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "1741" ;
+    nif:endIndex "1743" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1744_1748> a nif:Word ;
+    nif:anchorOf "King" ;
+    nif:beginIndex "1744" ;
+    nif:endIndex "1748" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1749_1753> a nif:Word ;
+    nif:anchorOf "Odin" ;
+    nif:beginIndex "1749" ;
+    nif:endIndex "1753" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1753_1755> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "1753" ;
+    nif:endIndex "1755" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1756_1765> a nif:Word ;
+    nif:anchorOf "concubine" ;
+    nif:beginIndex "1756" ;
+    nif:endIndex "1765" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1767_1772> a nif:Word ;
+    nif:anchorOf "after" ;
+    nif:beginIndex "1767" ;
+    nif:endIndex "1772" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1773_1776> a nif:Word ;
+    nif:anchorOf "she" ;
+    nif:beginIndex "1773" ;
+    nif:endIndex "1776" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1777_1783> a nif:Word ;
+    nif:anchorOf "agreed" ;
+    nif:beginIndex "1777" ;
+    nif:endIndex "1783" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1784_1786> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "1784" ;
+    nif:endIndex "1786" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#TO> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1787_1792> a nif:Word ;
+    nif:anchorOf "spend" ;
+    nif:beginIndex "1787" ;
+    nif:endIndex "1792" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1793_1794> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1793" ;
+    nif:endIndex "1794" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1795_1800> a nif:Word ;
+    nif:anchorOf "night" ;
+    nif:beginIndex "1795" ;
+    nif:endIndex "1800" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1801_1805> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "1801" ;
+    nif:endIndex "1805" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1806_1810> a nif:Word ;
+    nif:anchorOf "each" ;
+    nif:beginIndex "1806" ;
+    nif:endIndex "1810" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1811_1813> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1811" ;
+    nif:endIndex "1813" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1814_1818> a nif:Word ;
+    nif:anchorOf "them" ;
+    nif:beginIndex "1814" ;
+    nif:endIndex "1818" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1821_1827> a nif:Word ;
+    nif:anchorOf "Modern" ;
+    nif:beginIndex "1821" ;
+    nif:endIndex "1827" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1828_1837> a nif:Word ;
+    nif:anchorOf "influence" ;
+    nif:beginIndex "1828" ;
+    nif:endIndex "1837" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1838_1840> a nif:Word ;
+    nif:anchorOf "J." ;
+    nif:beginIndex "1838" ;
+    nif:endIndex "1840" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1841_1843> a nif:Word ;
+    nif:anchorOf "R." ;
+    nif:beginIndex "1841" ;
+    nif:endIndex "1843" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1844_1846> a nif:Word ;
+    nif:anchorOf "R." ;
+    nif:beginIndex "1844" ;
+    nif:endIndex "1846" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1847_1854> a nif:Word ;
+    nif:anchorOf "Tolkien" ;
+    nif:beginIndex "1847" ;
+    nif:endIndex "1854" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1855_1859> a nif:Word ;
+    nif:anchorOf "took" ;
+    nif:beginIndex "1855" ;
+    nif:endIndex "1859" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1860_1863> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1860" ;
+    nif:endIndex "1863" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1864_1868> a nif:Word ;
+    nif:anchorOf "name" ;
+    nif:beginIndex "1864" ;
+    nif:endIndex "1868" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1869_1871> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "1869" ;
+    nif:endIndex "1871" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1872_1878> a nif:Word ;
+    nif:anchorOf "Dwalin" ;
+    nif:beginIndex "1872" ;
+    nif:endIndex "1878" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1879_1882> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "1879" ;
+    nif:endIndex "1882" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1883_1886> a nif:Word ;
+    nif:anchorOf "one" ;
+    nif:beginIndex "1883" ;
+    nif:endIndex "1886" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1887_1889> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1887" ;
+    nif:endIndex "1889" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1890_1893> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1890" ;
+    nif:endIndex "1893" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1894_1901> a nif:Word ;
+    nif:anchorOf "dwarves" ;
+    nif:beginIndex "1894" ;
+    nif:endIndex "1901" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1902_1904> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1902" ;
+    nif:endIndex "1904" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1905_1908> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1905" ;
+    nif:endIndex "1908" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1909_1920> a nif:Word ;
+    nif:anchorOf "Hobbit.Rich" ;
+    nif:beginIndex "1909" ;
+    nif:endIndex "1920" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1921_1927> a nif:Word ;
+    nif:anchorOf "Burlew" ;
+    nif:beginIndex "1921" ;
+    nif:endIndex "1927" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1928_1931> a nif:Word ;
+    nif:anchorOf "has" ;
+    nif:beginIndex "1928" ;
+    nif:endIndex "1931" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1932_1938> a nif:Word ;
+    nif:anchorOf "Dvalin" ;
+    nif:beginIndex "1932" ;
+    nif:endIndex "1938" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1939_1941> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "1939" ;
+    nif:endIndex "1941" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1942_1945> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1942" ;
+    nif:endIndex "1945" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1946_1951> a nif:Word ;
+    nif:anchorOf "first" ;
+    nif:beginIndex "1946" ;
+    nif:endIndex "1951" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1952_1956> a nif:Word ;
+    nif:anchorOf "king" ;
+    nif:beginIndex "1952" ;
+    nif:endIndex "1956" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1957_1959> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1957" ;
+    nif:endIndex "1959" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1960_1963> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1960" ;
+    nif:endIndex "1963" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1964_1971> a nif:Word ;
+    nif:anchorOf "Dwarves" ;
+    nif:beginIndex "1964" ;
+    nif:endIndex "1971" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1973_1975> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "1973" ;
+    nif:endIndex "1975" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1976_1984> a nif:Word ;
+    nif:anchorOf "ascended" ;
+    nif:beginIndex "1976" ;
+    nif:endIndex "1984" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1985_1992> a nif:Word ;
+    nif:anchorOf "demigod" ;
+    nif:beginIndex "1985" ;
+    nif:endIndex "1992" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1993_1995> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1993" ;
+    nif:endIndex "1995" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_1996_1999> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1996" ;
+    nif:endIndex "1999" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2000_2008> a nif:Word ;
+    nif:anchorOf "Northern" ;
+    nif:beginIndex "2000" ;
+    nif:endIndex "2008" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2009_2017> a nif:Word ;
+    nif:anchorOf "Pantheon" ;
+    nif:beginIndex "2009" ;
+    nif:endIndex "2017" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2018_2020> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2018" ;
+    nif:endIndex "2020" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2021_2024> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "2021" ;
+    nif:endIndex "2024" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2025_2030> a nif:Word ;
+    nif:anchorOf "Order" ;
+    nif:beginIndex "2025" ;
+    nif:endIndex "2030" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2031_2033> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "2031" ;
+    nif:endIndex "2033" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2034_2037> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "2034" ;
+    nif:endIndex "2037" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2038_2043> a nif:Word ;
+    nif:anchorOf "Stick" ;
+    nif:beginIndex "2038" ;
+    nif:endIndex "2043" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2046_2055> a nif:Word ;
+    nif:anchorOf "Footnotes" ;
+    nif:beginIndex "2046" ;
+    nif:endIndex "2055" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2058_2068> a nif:Word ;
+    nif:anchorOf "References" ;
+    nif:beginIndex "2058" ;
+    nif:endIndex "2068" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2073_2076> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "2073" ;
+    nif:endIndex "2076" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2077_2082> a nif:Word ;
+    nif:anchorOf "Sagas" ;
+    nif:beginIndex "2077" ;
+    nif:endIndex "2082" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2083_2085> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "2083" ;
+    nif:endIndex "2085" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2086_2096> a nif:Word ;
+    nif:anchorOf "Icelanders" ;
+    nif:beginIndex "2086" ;
+    nif:endIndex "2096" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2098_2099> a nif:Word ;
+    nif:anchorOf "A" ;
+    nif:beginIndex "2098" ;
+    nif:endIndex "2099" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_20_27> a nif:Word ;
+    nif:anchorOf "Dvalinn" ;
+    nif:beginIndex "20" ;
+    nif:endIndex "27" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2100_2109> a nif:Word ;
+    nif:anchorOf "Selection" ;
+    nif:beginIndex "2100" ;
+    nif:endIndex "2109" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2111_2117> a nif:Word ;
+    nif:anchorOf "London" ;
+    nif:beginIndex "2111" ;
+    nif:endIndex "2117" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2119_2126> a nif:Word ;
+    nif:anchorOf "Penguin" ;
+    nif:beginIndex "2119" ;
+    nif:endIndex "2126" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_2128_2132> a nif:Word ;
+    nif:anchorOf "2001" ;
+    nif:beginIndex "2128" ;
+    nif:endIndex "2132" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_280_286> a nif:Word ;
+    nif:anchorOf "Dvalin" ;
+    nif:beginIndex "280" ;
+    nif:endIndex "286" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_287_289> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "287" ;
+    nif:endIndex "289" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_28_30> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "28" ;
+    nif:endIndex "30" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_290_296> a nif:Word ;
+    nif:anchorOf "listed" ;
+    nif:beginIndex "290" ;
+    nif:endIndex "296" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_297_299> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "297" ;
+    nif:endIndex "299" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_300_303> a nif:Word ;
+    nif:anchorOf "one" ;
+    nif:beginIndex "300" ;
+    nif:endIndex "303" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_304_306> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "304" ;
+    nif:endIndex "306" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_307_310> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "307" ;
+    nif:endIndex "310" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_311_315> a nif:Word ;
+    nif:anchorOf "four" ;
+    nif:beginIndex "311" ;
+    nif:endIndex "315" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_316_321> a nif:Word ;
+    nif:anchorOf "stags" ;
+    nif:beginIndex "316" ;
+    nif:endIndex "321" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_31_32> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "31" ;
+    nif:endIndex "32" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_322_324> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "322" ;
+    nif:endIndex "324" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_325_335> a nif:Word ;
+    nif:anchorOf "Yggdrasill" ;
+    nif:beginIndex "325" ;
+    nif:endIndex "335" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_336_338> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "336" ;
+    nif:endIndex "338" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_339_343> a nif:Word ;
+    nif:anchorOf "both" ;
+    nif:beginIndex "339" ;
+    nif:endIndex "343" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_33_38> a nif:Word ;
+    nif:anchorOf "dwarf" ;
+    nif:beginIndex "33" ;
+    nif:endIndex "38" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_344_354> a nif:Word ;
+    nif:anchorOf "Grímnismál" ;
+    nif:beginIndex "344" ;
+    nif:endIndex "354" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_355_359> a nif:Word ;
+    nif:anchorOf "from" ;
+    nif:beginIndex "355" ;
+    nif:endIndex "359" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_360_363> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "360" ;
+    nif:endIndex "363" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_364_370> a nif:Word ;
+    nif:anchorOf "Poetic" ;
+    nif:beginIndex "364" ;
+    nif:endIndex "370" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_371_375> a nif:Word ;
+    nif:anchorOf "Edda" ;
+    nif:beginIndex "371" ;
+    nif:endIndex "375" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_376_379> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "376" ;
+    nif:endIndex "379" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_380_392> a nif:Word ;
+    nif:anchorOf "Gylfaginning" ;
+    nif:beginIndex "380" ;
+    nif:endIndex "392" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_393_397> a nif:Word ;
+    nif:anchorOf "from" ;
+    nif:beginIndex "393" ;
+    nif:endIndex "397" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_398_401> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "398" ;
+    nif:endIndex "401" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_39_42> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "39" ;
+    nif:endIndex "42" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Pronoun>,
+        <http://purl.org/olia/olia.owl#wh-Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_3_8> a nif:Word ;
+    nif:anchorOf "Norse" ;
+    nif:beginIndex "3" ;
+    nif:endIndex "8" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_402_407> a nif:Word ;
+    nif:anchorOf "Prose" ;
+    nif:beginIndex "402" ;
+    nif:endIndex "407" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_408_412> a nif:Word ;
+    nif:anchorOf "Edda" ;
+    nif:beginIndex "408" ;
+    nif:endIndex "412" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_415_426> a nif:Word ;
+    nif:anchorOf "Attestation" ;
+    nif:beginIndex "415" ;
+    nif:endIndex "426" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_429_435> a nif:Word ;
+    nif:anchorOf "Poetic" ;
+    nif:beginIndex "429" ;
+    nif:endIndex "435" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_436_440> a nif:Word ;
+    nif:anchorOf "Edda" ;
+    nif:beginIndex "436" ;
+    nif:endIndex "440" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_43_50> a nif:Word ;
+    nif:anchorOf "appears" ;
+    nif:beginIndex "43" ;
+    nif:endIndex "50" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_441_443> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "441" ;
+    nif:endIndex "443" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_444_447> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "444" ;
+    nif:endIndex "447" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_448_454> a nif:Word ;
+    nif:anchorOf "Poetic" ;
+    nif:beginIndex "448" ;
+    nif:endIndex "454" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_455_459> a nif:Word ;
+    nif:anchorOf "Edda" ;
+    nif:beginIndex "455" ;
+    nif:endIndex "459" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_460_464> a nif:Word ;
+    nif:anchorOf "poem" ;
+    nif:beginIndex "460" ;
+    nif:endIndex "464" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_465_472> a nif:Word ;
+    nif:anchorOf "Völuspá" ;
+    nif:beginIndex "465" ;
+    nif:endIndex "472" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_474_480> a nif:Word ;
+    nif:anchorOf "Dvalin" ;
+    nif:beginIndex "474" ;
+    nif:endIndex "480" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_481_483> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "481" ;
+    nif:endIndex "483" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_484_493> a nif:Word ;
+    nif:anchorOf "mentioned" ;
+    nif:beginIndex "484" ;
+    nif:endIndex "493" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_494_496> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "494" ;
+    nif:endIndex "496" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_497_498> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "497" ;
+    nif:endIndex "498" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_499_503> a nif:Word ;
+    nif:anchorOf "name" ;
+    nif:beginIndex "499" ;
+    nif:endIndex "503" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_504_506> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "504" ;
+    nif:endIndex "506" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_507_510> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "507" ;
+    nif:endIndex "510" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_511_518> a nif:Word ;
+    nif:anchorOf "listing" ;
+    nif:beginIndex "511" ;
+    nif:endIndex "518" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_519_521> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "519" ;
+    nif:endIndex "521" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_51_53> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "51" ;
+    nif:endIndex "53" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_522_529> a nif:Word ;
+    nif:anchorOf "dwarves" ;
+    nif:beginIndex "522" ;
+    nif:endIndex "529" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_531_534> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "531" ;
+    nif:endIndex "534" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_535_540> a nif:Word ;
+    nif:anchorOf "again" ;
+    nif:beginIndex "535" ;
+    nif:endIndex "540" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_541_543> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "541" ;
+    nif:endIndex "543" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_544_545> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "544" ;
+    nif:endIndex "545" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_546_551> a nif:Word ;
+    nif:anchorOf "later" ;
+    nif:beginIndex "546" ;
+    nif:endIndex "551" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_54_61> a nif:Word ;
+    nif:anchorOf "several" ;
+    nif:beginIndex "54" ;
+    nif:endIndex "61" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_552_558> a nif:Word ;
+    nif:anchorOf "stanza" ;
+    nif:beginIndex "552" ;
+    nif:endIndex "558" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_559_561> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "559" ;
+    nif:endIndex "561" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_562_563> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "562" ;
+    nif:endIndex "563" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_564_570> a nif:Word ;
+    nif:anchorOf "leader" ;
+    nif:beginIndex "564" ;
+    nif:endIndex "570" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_571_577> a nif:Word ;
+    nif:anchorOf "taking" ;
+    nif:beginIndex "571" ;
+    nif:endIndex "577" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_578_579> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "578" ;
+    nif:endIndex "579" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_580_584> a nif:Word ;
+    nif:anchorOf "host" ;
+    nif:beginIndex "580" ;
+    nif:endIndex "584" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_585_587> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "585" ;
+    nif:endIndex "587" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_588_595> a nif:Word ;
+    nif:anchorOf "dwarves" ;
+    nif:beginIndex "588" ;
+    nif:endIndex "595" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_596_600> a nif:Word ;
+    nif:anchorOf "from" ;
+    nif:beginIndex "596" ;
+    nif:endIndex "600" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_601_604> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "601" ;
+    nif:endIndex "604" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_605_614> a nif:Word ;
+    nif:anchorOf "mountains" ;
+    nif:beginIndex "605" ;
+    nif:endIndex "614" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_615_617> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "615" ;
+    nif:endIndex "617" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#TO> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_618_622> a nif:Word ;
+    nif:anchorOf "find" ;
+    nif:beginIndex "618" ;
+    nif:endIndex "622" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_623_624> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "623" ;
+    nif:endIndex "624" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_625_628> a nif:Word ;
+    nif:anchorOf "new" ;
+    nif:beginIndex "625" ;
+    nif:endIndex "628" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_629_637> a nif:Word ;
+    nif:anchorOf "dwelling" ;
+    nif:beginIndex "629" ;
+    nif:endIndex "637" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_62_65> a nif:Word ;
+    nif:anchorOf "Old" ;
+    nif:beginIndex "62" ;
+    nif:endIndex "65" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_638_643> a nif:Word ;
+    nif:anchorOf "place" ;
+    nif:beginIndex "638" ;
+    nif:endIndex "643" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_66_71> a nif:Word ;
+    nif:anchorOf "Norse" ;
+    nif:beginIndex "66" ;
+    nif:endIndex "71" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_72_77> a nif:Word ;
+    nif:anchorOf "tales" ;
+    nif:beginIndex "72" ;
+    nif:endIndex "77" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_78_81> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "78" ;
+    nif:endIndex "81" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_82_90> a nif:Word ;
+    nif:anchorOf "kennings" ;
+    nif:beginIndex "82" ;
+    nif:endIndex "90" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_868_870> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "868" ;
+    nif:endIndex "870" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_871_880> a nif:Word ;
+    nif:anchorOf "Alvíssmál" ;
+    nif:beginIndex "871" ;
+    nif:endIndex "880" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_882_883> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "882" ;
+    nif:endIndex "883" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_884_891> a nif:Word ;
+    nif:anchorOf "kenning" ;
+    nif:beginIndex "884" ;
+    nif:endIndex "891" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_892_895> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "892" ;
+    nif:endIndex "895" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_896_899> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "896" ;
+    nif:endIndex "899" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_900_903> a nif:Word ;
+    nif:anchorOf "sun" ;
+    nif:beginIndex "900" ;
+    nif:endIndex "903" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_904_906> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "904" ;
+    nif:endIndex "906" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_907_913> a nif:Word ;
+    nif:anchorOf "listed" ;
+    nif:beginIndex "907" ;
+    nif:endIndex "913" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_914_916> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "914" ;
+    nif:endIndex "916" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_917_920> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "917" ;
+    nif:endIndex "920" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_92_95> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "92" ;
+    nif:endIndex "95" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_96_100> a nif:Word ;
+    nif:anchorOf "name" ;
+    nif:beginIndex "96" ;
+    nif:endIndex "100" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=word_9_18> a nif:Word ;
+    nif:anchorOf "mythology" ;
+    nif:beginIndex "9" ;
+    nif:endIndex "18" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Dvalinn?dbpv=2016-10&nif=context> .
+
