@@ -1,0 +1,85 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_0_50> a nif:Sentence ;
+    nif:anchorOf "Frank Film is a 1973 American animated short film." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "50" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_1073_1108> a nif:Sentence ;
+    nif:anchorOf "(Making of Frank Film) Focal Press." ;
+    nif:beginIndex "1073" ;
+    nif:endIndex "1108" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_1109_1194> a nif:Sentence ;
+    nif:anchorOf """ISBN 978-0-240-52070-4
+
+External links
+
+*  Frank Film  at the Internet Movie Database""" ;
+    nif:beginIndex "1109" ;
+    nif:endIndex "1194" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_316_415> a nif:Sentence ;
+    nif:anchorOf "Frank made the film with Caroline Mouris.The soundtrack was conceived and created by Tony Schwartz." ;
+    nif:beginIndex "316" ;
+    nif:endIndex "415" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_416_492> a nif:Sentence ;
+    nif:anchorOf "The movie won the 1974 Academy Award for Best Short Subject, Animated Films." ;
+    nif:beginIndex "416" ;
+    nif:endIndex "492" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_493_545> a nif:Sentence ;
+    nif:anchorOf "It was also included in the Animation Show of Shows." ;
+    nif:beginIndex "493" ;
+    nif:endIndex "545" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_51_315> a nif:Sentence ;
+    nif:anchorOf "It is a compilation of images co-creator Frank Mouris had collected from magazines interwoven with two narrations, one giving a mostly linear autobiography and the other stating words having to do with the images, the story the first voice is relating, or neither." ;
+    nif:beginIndex "51" ;
+    nif:endIndex "315" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_546_733> a nif:Sentence ;
+    nif:anchorOf "In 1996, Frank Film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\"." ;
+    nif:beginIndex "546" ;
+    nif:endIndex "733" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_734_795> a nif:Sentence ;
+    nif:anchorOf "The film is also featured in the 1985 movie titled Explorers." ;
+    nif:beginIndex "734" ;
+    nif:endIndex "795" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_796_896> a nif:Sentence ;
+    nif:anchorOf "Frank Film is included on the 2007 DVD five by two: five animated shorts by frank & caroline mouris." ;
+    nif:beginIndex "796" ;
+    nif:endIndex "896" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=sentence_898_1072> a nif:Sentence ;
+    nif:anchorOf """Notes
+
+
+See also
+
+*  List of American films of 1973
+
+References
+
+*  Olivier Cotte (2007) Secrets of Oscar-winning animation: Behind the scenes of 13 classic short animations.""" ;
+    nif:beginIndex "898" ;
+    nif:endIndex "1072" ;
+    nif:referenceContext <http://dbpedia.org/resource/Frank_Film?dbpv=2016-10&nif=context> .
+
